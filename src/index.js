@@ -1,4 +1,4 @@
-import Wheel from 'Wheel'
+import Wheel from './Wheel'
 
 export {
   Wheel
